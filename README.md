@@ -38,7 +38,7 @@
   <tr>
     <td bgcolor="#000000" align="left" colspan="3"><br>
        <font color="#39FF14"><b>&nbsp; PROFILE</b></font><br>
-       <font color="#39FF14">&nbsp; I sit at the intersection of Business Logic and Technical Implementation. Currently, I am focused on mastering <b>Systems Analysis and Design (SAD)</b> to bridge the gap between stakeholder needs and scalable software. I'm learning about architecting systems that streamline complex organizational workflows.<br></font>
+       <font color="#39FF14">&nbsp; I am currently an IS student exploring the bridge between business needs and technical solutions. My focus is on learning the fundamentals of Systems Analysis and Design (SAD), as I work toward understanding how to better translate stakeholder requirements into helpful software. I am still at the beginning of my journey in architecting systems, but I am deeply interested in learning how to streamline complex organizational workflows to make them more efficient and user-friendly.<br></font>
     </td>
   </tr>
 
