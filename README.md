@@ -50,7 +50,7 @@
   <tr>
     <td bgcolor="#000000" align="left" colspan="3"><br>
        <font color="#39FF14"><b>&nbsp; CREATIVE SUITE & FREELANCE</b></font><br>
-       <font color="#39FF14">&nbsp; In my spare time, I freelance as a graphic designer specializing in print materials from T-shirts and polo shirts to pins, concert arch gate and pubmats..</font><br><br>
+       <font color="#39FF14">&nbsp; In my spare time, I freelance as a graphic designer specializing in print materials from T-shirts and polo shirts to pins, concert arch gate and pubmats while of course enjoying my coffee..</font><br><br>
        &nbsp; <img src="https://img.shields.io/badge/Photoshop-39FF14?style=flat&logo=adobe-photoshop&logoColor=black" />
        <img src="https://img.shields.io/badge/Illustrator-39FF14?style=flat&logo=adobe-illustrator&logoColor=black" />
        <img src="https://img.shields.io/badge/Canva-39FF14?style=flat&logo=canva&logoColor=black" />
