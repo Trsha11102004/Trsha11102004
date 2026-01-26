@@ -33,7 +33,7 @@
   <tr>
     <td bgcolor="#000000" align="left" colspan="3"><br>
        <font color="#39FF14"><b>&nbsp; PROFILE</b></font><br>
-       <font color="#39FF14">&nbsp; I sit at the intersection of Business Logic and Technical Implementation. Currently, I am focused on mastering <b>Systems Analysis and Design (SAD)</b> to bridge the gap between stakeholder needs and scalable software. I'm interested about architecting systems that streamline complex organizational workflows.<br></font>
+       <font color="#39FF14">&nbsp; I sit at the intersection of Business Logic and Technical Implementation. Currently, I am focused on mastering <b>Systems Analysis and Design (SAD)</b> to bridge the gap between stakeholder needs and scalable software. I'm learning about architecting systems that streamline complex organizational workflows.<br></font>
     </td>
   </tr>
 
