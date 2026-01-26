@@ -23,7 +23,8 @@
       <font color="#39FF14" size="6"><b>TRISHA MAE LOMBENDENCIO</b></font><br>
       <font color="#39FF14"><b>Bachelor of Science in Information Systems</b></font><br>
       <font color="#39FF14">West Visayas State University • Batch 2027</font><br>
-      <font color="#39FF14"><i>Third Year Major in Business Application Development</i></font>
+      <font color="#39FF14">Third Year Major in Business Application Development</font>
+      <font color="#39FF14"><i><br>I love coffee and art<3 </i></font>
     </td>
   </tr>
   <tr>
