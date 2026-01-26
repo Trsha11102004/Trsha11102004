@@ -82,6 +82,30 @@
     </td>
 </table>
 </div>
+<tr>
+  <td bgcolor="#000000" align="center" colspan="3">
+    <br>
+    <font color="#39FF14" face="monospace" size="4">
+      <b>[  ESTABLISHING_CONNECTION... ]</b>
+    </font>
+    <br><br>
+    <a href="https://www.facebook.com/share/1BpemGndFU/">
+      <img src="https://img.shields.io/badge/FACEBOOK-39FF14?style=for-the-badge&logo=facebook&logoColor=black" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/artcoholeic?igsh=MXdydHNoaHZ1aDk2cg==">
+      <img src="https://img.shields.io/badge/INSTAGRAM-39FF14?style=for-the-badge&logo=instagram&logoColor=black" />
+    </a>
+    &nbsp;
+    <a href="mailto:trishamae.lombendencio@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
+    </a>
+    <br><br>
+    <font color="#39FF14" size="2"><i>// Always open for collaboration and coffee.</i></font>
+    <br><br>
+  </td>
+</tr>
+
 <br />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=TRISHA'S+GITHUB+STATS" alt="Stats Header" />
@@ -97,3 +121,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true&custom_title=Contribution%20Flow" width="89%" />
 </p>
 <br />
+
