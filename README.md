@@ -1,11 +1,6 @@
-<div align="center">
-  <img src="./your-coffee-cup.gif" width="150" alt="Coffee Pulsating" />
-  
-  <br /> 
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi!+I'm+Trisha+👋;Welcome+to+my+creative+space!;I+turn+Coffee+into+Pixels+☕;Obsessed+with+Aesthetics;Let's+design+something+cool!" alt="Typing SVG" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=Hi!+I'm+Trisha+👋;Welcome+to+my+creative+space!;I+turn+Coffee+into+Pixels+☕;Obsessed+with+Aesthetics;Let's+design+something+cool!" alt="Typing SVG" />
+</p>
 ### I'm TRISHA,
 **Information System Student @ West Visayas State University**
 
