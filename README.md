@@ -1,29 +1,79 @@
 <p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-39FF14?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=Hi!+I'm+Trisha+👋;Welcome+to+my+creative+space!;I+turn+Coffee+into+Pixels+☕;Obsessed+with+Aesthetics;Let's+design+something+cool!" alt="Typing SVG" />
 </p>
-### I'm TRISHA,
-**Information System Student @ West Visayas State University**
 
-I am passionate about coding, web development, and technology. Currently learning how to build awesome software!
-
-- 🔭 I’m currently working on **web development projects**
-- 🌱 I’m currently learning **Python and Java**
-- 👯 I’m looking to collaborate on **student projects**
-- ⚡ Fun fact: **I love coffee and debugging (sometimes)**
-
----
-
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<p align="center">
+  <font color="#39FF14" size="5">⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹</font>
 </p>
 
----
+<div align="center">
+<table align="center">
+  <tr>
+    <td bgcolor="#000000" align="center" colspan="3">
+      <font color="#39FF14" size="6"><b>TRISHA MAE LOMBENDENCIO</b></font><br>
+      <font color="#39FF14"><b>Bachelor of Science in Information Systems</b></font><br>
+      <font color="#39FF14">West Visayas State University • Batch 2027</font>
+    </td>
+  </tr>
 
-### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+  <tr>
+    <td bgcolor="#000000" align="center" colspan="3">
+       <font color="#39FF14"><i>Third Year Major in Business Application Development</i></font>
+    </td>
+  </tr>
 
-![Top Langs](https://github-
+  <tr>
+    <td bgcolor="#000000" align="center" colspan="1">
+      <img src="https://img.shields.io/badge/CURRENT_STATUS-LEARNING_CODE-39FF14?style=for-the-badge&logoColor=black" />
+    </td>
+    <td bgcolor="#000000" align="center" colspan="2">
+      <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-39FF14?style=for-the-badge&logoColor=black" />
+    </td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#000000" align="left" colspan="3">
+      <font color="#39FF14"><b>&nbsp; 🎨 FORTE: GRAPHIC DESIGN & UI/UX</b></font><br>
+      <img src="https://img.shields.io/badge/Photoshop-39FF14?style=flat&logo=adobe-photoshop&logoColor=black" />
+      <img src="https://img.shields.io/badge/Illustrator-39FF14?style=flat&logo=adobe-illustrator&logoColor=black" />
+      <img src="https://img.shields.io/badge/Figma-39FF14?style=flat&logo=figma&logoColor=black" />
+    </td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#000000" align="left">
+      <font color="#39FF14"><b>&nbsp; 💻 LANGUAGES</b></font><br>
+      <img src="https://img.shields.io/badge/JavaScript-39FF14?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-39FF14?style=flat&logo=openjdk&logoColor=black" />
+    </td>
+    <td bgcolor="#000000" align="left">
+      <font color="#39FF14"><b>&nbsp; 🛠️ TOOLS</b></font><br>
+      <img src="https://img.shields.io/badge/VS_Code-39FF14?style=flat&logo=visual-studio-code&logoColor=black" />
+      <img src="https://img.shields.io/badge/Firebase-39FF14?style=flat&logo=firebase&logoColor=black" />
+    </td>
+    <td bgcolor="#000000" align="left">
+      <font color="#39FF14"><b>&nbsp; ⚙️ BACKEND / DB</b></font><br>
+      <img src="https://img.shields.io/badge/MySQL-39FF14?style=flat&logo=mysql&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-39FF14?style=flat&logo=html5&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&border_color=39FF14" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&bg_color=000000&title_color=39FF14&text_color=39FF14&border_color=39FF14" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true" width="89%" />
+</p>
+
+<br />
