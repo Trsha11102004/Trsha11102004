@@ -2,12 +2,9 @@
   <a href="https://www.buymeacoffee.com/yourusername">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-39FF14?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a><br>
-  <tr bgcolor="#000000">
+<tr bgcolor="#000000">
   <td align="center" colspan="3">
-    <font color="#39FF14" face="monospace">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=TOTAL_HITS&color=39FF14&style=for-the-badge" alt="Profile Views" />
-    <br><br>
-    <font color="#39FF14" size="1">
+    <img src="https://komarev.com/ghpvc/?username=artcoholeic&label=Profile_Views&color=39FF14&style=for-the-badge" alt="Profile Views" />
   </td>
 </tr>
 </p>
