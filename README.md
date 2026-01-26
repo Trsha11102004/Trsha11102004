@@ -17,18 +17,13 @@
     <td bgcolor="#000000" align="center" colspan="3">
       <font color="#39FF14" size="6"><b>TRISHA MAE LOMBENDENCIO</b></font><br>
       <font color="#39FF14"><b>Bachelor of Science in Information Systems</b></font><br>
-      <font color="#39FF14">West Visayas State University • Batch 2027</font>
-    </td>
-  </tr>
-
-  <tr>
-    <td bgcolor="#000000" align="center" colspan="3">
-       <font color="#39FF14"><i>Third Year Major in Business Application Development</i></font>
+      <font color="#39FF14">West Visayas State University • Batch 2027</font><br>
+      <font color="#39FF14"><i>Third Year Major in Business Application Development</i></font>
     </td>
   </tr>
   <tr>
     <td bgcolor="#000000" align="center" colspan="1">
-      <img src="https://img.shields.io/badge/STATUS-LEARNING_CODE-39FF14?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/STATUS-LEARNING_SAD-39FF14?style=for-the-badge&logoColor=black" />
     </td>
     <td bgcolor="#000000" align="center" colspan="2">
       <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-39FF14?style=for-the-badge&logoColor=black" />
@@ -36,35 +31,55 @@
   </tr>
 
   <tr>
-    <td bgcolor="#000000" align="left" colspan="3">
-      <font color="#39FF14"><b>&nbsp; 🎨 FORTE: GRAPHIC DESIGN & UI/UX</b></font><br>
-      <img src="https://img.shields.io/badge/Photoshop-39FF14?style=flat&logo=adobe-photoshop&logoColor=black" />
-      <img src="https://img.shields.io/badge/Illustrator-39FF14?style=flat&logo=adobe-illustrator&logoColor=black" />
-      <img src="https://img.shields.io/badge/Figma-39FF14?style=flat&logo=figma&logoColor=black" />
+    <td bgcolor="#000000" align="left" colspan="3"><br>
+       <font color="#39FF14"><b>&nbsp; PROFILE</b></font><br>
+       <font color="#39FF14">&nbsp; I sit at the intersection of Business Logic and Technical Implementation. Currently, I am focused on mastering <b>Systems Analysis and Design (SAD)</b> to bridge the gap between stakeholder needs and scalable software. I'm interested about architecting systems that streamline complex organizational workflows.<br></font>
     </td>
   </tr>
 
   <tr>
+<td bgcolor="#000000" align="left" colspan="3"><br>
+       <font color="#39FF14"><b>&nbsp; CURRENT DEVELOPMENT: SENIOR THESIS</b></font><br>
+       <font color="#39FF14">&nbsp; <b>PROJECT:</b> Web-based Decision Support System (DSS) for <b>HRMO Iloilo City Government</b>.<br>
+       &nbsp; <b>STRATEGY:</b> Utilizing <b>C4.5 Algorithm</b> & <b>Weighted Sum Model (WSM)</b> for competency assessment.<br>
+       &nbsp; <b>INNOVATION:</b> Descriptive analytics & machine learning for automated succession planning and training classification.</font>
+       <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#000000" align="left" colspan="3"><br>
+       <font color="#39FF14"><b>&nbsp; CREATIVE SUITE & FREELANCE</b></font><br>
+       <font color="#39FF14">&nbsp; I operate a design enterprise specializing in printing materials (T-shirts, Polo shirts, pins, and pubmats), merging aesthetic precision with business management.</font><br><br>
+       &nbsp; <img src="https://img.shields.io/badge/Photoshop-39FF14?style=flat&logo=adobe-photoshop&logoColor=black" />
+       <img src="https://img.shields.io/badge/Illustrator-39FF14?style=flat&logo=adobe-illustrator&logoColor=black" />
+       <img src="https://img.shields.io/badge/Canva-39FF14?style=flat&logo=canva&logoColor=black" />
+       <img src="https://img.shields.io/badge/Krita-39FF14?style=flat&logo=krita&logoColor=black" />
+       <img src="https://img.shields.io/badge/Figma-39FF14?style=flat&logo=figma&logoColor=black" />
+    </td>
+  </tr>
+
+
+  <tr>
     <td bgcolor="#000000" align="left" valign="top">
-      <font color="#39FF14"><b>&nbsp; 💻 DEV LANGUAGES</b></font><br>
+      <font color="#39FF14"><b>&nbsp; DEV LANGUAGES</b></font><br>
       <img src="https://img.shields.io/badge/JavaScript-39FF14?style=flat&logo=javascript&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Java-39FF14?style=flat&logo=openjdk&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/HTML5-39FF14?style=flat&logo=html5&logoColor=black" />
     </td>
     <td bgcolor="#000000" align="left" valign="top">
-      <font color="#39FF14"><b>&nbsp; 🛠️ ENVIRONMENT</b></font><br>
+      <font color="#39FF14"><b>&nbsp; ENVIRONMENT</b></font><br>
       <img src="https://img.shields.io/badge/VS_Code-39FF14?style=flat&logo=visual-studio-code&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Git-39FF14?style=flat&logo=git&logoColor=black" />
     </td>
     <td bgcolor="#000000" align="left" valign="top">
-      <font color="#39FF14"><b>&nbsp; ⚙️ BACKEND & DB</b></font><br>
+      <font color="#39FF14"><b>&nbsp; BACKEND & DB</b></font><br>
       <img src="https://img.shields.io/badge/MySQL-39FF14?style=flat&logo=mysql&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Firebase-39FF14?style=flat&logo=firebase&logoColor=black" />
     </td>
   </tr>
 </table>
 </div>
-
 <br />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=TRISHA'S+GITHUB+STATS" alt="Stats Header" />
