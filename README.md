@@ -1,7 +1,15 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourusername">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-39FF14?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
+  </a><br>
+  <tr bgcolor="#000000">
+  <td align="center" colspan="3">
+    <font color="#39FF14" face="monospace">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=TOTAL_HITS&color=39FF14&style=for-the-badge" alt="Profile Views" />
+    <br><br>
+    <font color="#39FF14" size="1">
+  </td>
+</tr>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=800&height=100&lines=Hi!+I'm+Trisha+👋;Welcome+to+my+creative+space!;I+turn+Coffee+into+Pixels+☕;Obsessed+with+Aesthetics;Let's+design+something+cool!" alt="Typing SVG" />
