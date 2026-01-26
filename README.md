@@ -50,7 +50,7 @@
   <tr>
     <td bgcolor="#000000" align="left" colspan="3"><br>
        <font color="#39FF14"><b>&nbsp; CREATIVE SUITE & FREELANCE</b></font><br>
-       <font color="#39FF14">&nbsp; I operate a design enterprise specializing in printing materials (T-shirts, Polo shirts, pins, and pubmats), merging aesthetic precision with business management.</font><br><br>
+       <font color="#39FF14">&nbsp; In my spare time, I freelance as a graphic designer specializing in print materials from T-shirts and polo shirts to pins, concert arch gate and pubmats..</font><br><br>
        &nbsp; <img src="https://img.shields.io/badge/Photoshop-39FF14?style=flat&logo=adobe-photoshop&logoColor=black" />
        <img src="https://img.shields.io/badge/Illustrator-39FF14?style=flat&logo=adobe-illustrator&logoColor=black" />
        <img src="https://img.shields.io/badge/Canva-39FF14?style=flat&logo=canva&logoColor=black" />
@@ -61,23 +61,25 @@
 
 
   <tr>
-    <td bgcolor="#000000" align="left" valign="top">
+<td bgcolor="#000000" align="left" valign="top">
       <font color="#39FF14"><b>&nbsp; DEV LANGUAGES</b></font><br>
       <img src="https://img.shields.io/badge/JavaScript-39FF14?style=flat&logo=javascript&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Java-39FF14?style=flat&logo=openjdk&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/PHP-39FF14?style=flat&logo=php&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/C++-39FF14?style=flat&logo=cplusplus&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/HTML5-39FF14?style=flat&logo=html5&logoColor=black" />
     </td>
     <td bgcolor="#000000" align="left" valign="top">
       <font color="#39FF14"><b>&nbsp; ENVIRONMENT</b></font><br>
       <img src="https://img.shields.io/badge/VS_Code-39FF14?style=flat&logo=visual-studio-code&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Git-39FF14?style=flat&logo=git&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-39FF14?style=flat&logo=git&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/XAMPP-39FF14?style=flat&logo=xampp&logoColor=black" />
     </td>
     <td bgcolor="#000000" align="left" valign="top">
       <font color="#39FF14"><b>&nbsp; BACKEND & DB</b></font><br>
       <img src="https://img.shields.io/badge/MySQL-39FF14?style=flat&logo=mysql&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Firebase-39FF14?style=flat&logo=firebase&logoColor=black" />
     </td>
-  </tr>
 </table>
 </div>
 <br />
