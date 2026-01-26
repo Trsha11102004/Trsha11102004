@@ -26,10 +26,9 @@
        <font color="#39FF14"><i>Third Year Major in Business Application Development</i></font>
     </td>
   </tr>
-
   <tr>
     <td bgcolor="#000000" align="center" colspan="1">
-      <img src="https://img.shields.io/badge/CURRENT_STATUS-LEARNING_CODE-39FF14?style=for-the-badge&logoColor=black" />
+      <img src="https://img.shields.io/badge/STATUS-LEARNING_CODE-39FF14?style=for-the-badge&logoColor=black" />
     </td>
     <td bgcolor="#000000" align="center" colspan="2">
       <img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-39FF14?style=for-the-badge&logoColor=black" />
@@ -38,7 +37,7 @@
 
   <tr>
     <td bgcolor="#000000" align="left" colspan="3">
-      <font color="#39FF14"><b>&nbsp;  FORTE: GRAPHIC DESIGN & UI/UX</b></font><br>
+      <font color="#39FF14"><b>&nbsp; 🎨 FORTE: GRAPHIC DESIGN & UI/UX</b></font><br>
       <img src="https://img.shields.io/badge/Photoshop-39FF14?style=flat&logo=adobe-photoshop&logoColor=black" />
       <img src="https://img.shields.io/badge/Illustrator-39FF14?style=flat&logo=adobe-illustrator&logoColor=black" />
       <img src="https://img.shields.io/badge/Figma-39FF14?style=flat&logo=figma&logoColor=black" />
@@ -46,24 +45,24 @@
   </tr>
 
   <tr>
-    <td bgcolor="#000000" align="left">
-      <font color="#39FF14"><b>&nbsp;  LANGUAGES</b></font><br>
-      <img src="https://img.shields.io/badge/JavaScript-39FF14?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Java-39FF14?style=flat&logo=openjdk&logoColor=black" />
-    </td>
-    <td bgcolor="#000000" align="left">
-      <font color="#39FF14"><b>&nbsp;  TOOLS</b></font><br>
-      <img src="https://img.shields.io/badge/VS_Code-39FF14?style=flat&logo=visual-studio-code&logoColor=black" />
-      <img src="https://img.shields.io/badge/Firebase-39FF14?style=flat&logo=firebase&logoColor=black" />
-    </td>
-    <td bgcolor="#000000" align="left">
-      <font color="#39FF14"><b>&nbsp;  BACKEND / DB</b></font><br>
-      <img src="https://img.shields.io/badge/MySQL-39FF14?style=flat&logo=mysql&logoColor=black" />
+    <td bgcolor="#000000" align="left" valign="top">
+      <font color="#39FF14"><b>&nbsp; 💻 DEV LANGUAGES</b></font><br>
+      <img src="https://img.shields.io/badge/JavaScript-39FF14?style=flat&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Java-39FF14?style=flat&logo=openjdk&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/HTML5-39FF14?style=flat&logo=html5&logoColor=black" />
+    </td>
+    <td bgcolor="#000000" align="left" valign="top">
+      <font color="#39FF14"><b>&nbsp; 🛠️ ENVIRONMENT</b></font><br>
+      <img src="https://img.shields.io/badge/VS_Code-39FF14?style=flat&logo=visual-studio-code&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Git-39FF14?style=flat&logo=git&logoColor=black" />
+    </td>
+    <td bgcolor="#000000" align="left" valign="top">
+      <font color="#39FF14"><b>&nbsp; ⚙️ BACKEND & DB</b></font><br>
+      <img src="https://img.shields.io/badge/MySQL-39FF14?style=flat&logo=mysql&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Firebase-39FF14?style=flat&logo=firebase&logoColor=black" />
     </td>
   </tr>
 </table>
-
 </div>
 
 <br />
