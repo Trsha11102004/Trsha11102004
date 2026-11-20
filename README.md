@@ -43,74 +43,91 @@
     </td>
   </tr>
 
-  <tr>
-<td bgcolor="#000000" align="left" colspan="3"><br>
+<tr>
+    <td bgcolor="#000000" align="left" colspan="3"><br>
        <font color="#39FF14"><b>&nbsp; CURRENT DEVELOPMENT: SENIOR THESIS</b></font><br>
-       <font color="#39FF14">&nbsp; <b>PROJECT:</b> Web-based Decision Support System (DSS) for <b>HRMO Iloilo City Government</b>.<br>
-       &nbsp; <b>STRATEGY:</b> Utilizing <b>C4.5 Algorithm</b> & <b>Weighted Sum Model (WSM)</b> for competency assessment.<br>
-       &nbsp; <b>INNOVATION:</b> Descriptive analytics & machine learning for automated succession planning and training classification.</font>
+       <font color="#39FF14">&nbsp; <b>PROJECT:</b> Web-based HRIS &amp; Decision Support System (DSS) for <b>HRMO Iloilo City Government</b>.<br>
+       &nbsp; <b>STRATEGY:</b> Utilizing <b>Descriptive Analytics</b> &amp; <b>Weighted Sum Model (WSM)</b> for competency gap analysis and candidate ranking.<br>
+       &nbsp; <b>INNOVATION:</b> CSC-aligned automated training classification and data-driven succession planning.</font>
        <br><br>
     </td>
   </tr>
 
   <tr>
     <td bgcolor="#000000" align="left" colspan="3"><br>
-       <font color="#39FF14"><b>&nbsp; CREATIVE SUITE & FREELANCE</b></font><br>
-       <font color="#39FF14">&nbsp; In my spare time, I freelance as a graphic designer specializing in print materials from T-shirts and polo shirts to pins, concert arch gate and pubmats while of course enjoying my coffee..</font><br><br>
+       <font color="#39FF14"><b>&nbsp; CREATIVE SUITE &amp; FREELANCE</b></font><br>
+       <font color="#39FF14">&nbsp; In my spare time, I take on exploratory freelance graphic design projects—creating everything from T-shirts, polo shirts, and pins to billboards, concert gate arches, and event pubmats—while of course enjoying my coffee.</font><br><br>
        &nbsp; <img src="https://img.shields.io/badge/Photoshop-39FF14?style=flat&logo=adobe-photoshop&logoColor=black" />
        <img src="https://img.shields.io/badge/Illustrator-39FF14?style=flat&logo=adobe-illustrator&logoColor=black" />
        <img src="https://img.shields.io/badge/Canva-39FF14?style=flat&logo=canva&logoColor=black" />
        <img src="https://img.shields.io/badge/Krita-39FF14?style=flat&logo=krita&logoColor=black" />
        <img src="https://img.shields.io/badge/Figma-39FF14?style=flat&logo=figma&logoColor=black" />
+       <br><br>
     </td>
   </tr>
 
-
   <tr>
-<td bgcolor="#000000" align="left" valign="top">
-      <font color="#39FF14"><b>&nbsp; DEV LANGUAGES</b></font><br>
+    <td bgcolor="#000000" align="left" valign="top">
+      <font color="#39FF14"><b>&nbsp; DEV LANGUAGES &amp; FRONTEND</b></font><br>
+      <img src="https://img.shields.io/badge/TypeScript-39FF14?style=flat&logo=typescript&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/JavaScript-39FF14?style=flat&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Python-39FF14?style=flat&logo=python&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Java-39FF14?style=flat&logo=openjdk&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/PHP-39FF14?style=flat&logo=php&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/C++-39FF14?style=flat&logo=cplusplus&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/HTML5-39FF14?style=flat&logo=html5&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-39FF14?style=flat&logo=html5&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/CSS3-39FF14?style=flat&logo=css3&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/React-39FF14?style=flat&logo=react&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-39FF14?style=flat&logo=tailwindcss&logoColor=black" />
+      <br><br>
     </td>
     <td bgcolor="#000000" align="left" valign="top">
-      <font color="#39FF14"><b>&nbsp; ENVIRONMENT</b></font><br>
+      <font color="#39FF14"><b>&nbsp; ENVIRONMENT &amp; TOOLS</b></font><br>
       <img src="https://img.shields.io/badge/VS_Code-39FF14?style=flat&logo=visual-studio-code&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Git-39FF14?style=flat&logo=git&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/GitHub-39FF14?style=flat&logo=github&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Node.js-39FF14?style=flat&logo=nodedotjs&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Vite-39FF14?style=flat&logo=vite&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Vercel-39FF14?style=flat&logo=vercel&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/XAMPP-39FF14?style=flat&logo=xampp&logoColor=black" />
+      <br><br>
     </td>
     <td bgcolor="#000000" align="left" valign="top">
-      <font color="#39FF14"><b>&nbsp; BACKEND & DB</b></font><br>
+      <font color="#39FF14"><b>&nbsp; BACKEND &amp; DB</b></font><br>
+      <img src="https://img.shields.io/badge/FastAPI-39FF14?style=flat&logo=fastapi&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-39FF14?style=flat&logo=postgresql&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Supabase-39FF14?style=flat&logo=supabase&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/MySQL-39FF14?style=flat&logo=mysql&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Firebase-39FF14?style=flat&logo=firebase&logoColor=black" />
+      <br><br>
     </td>
+  </tr>
+
+  <tr>
+    <td bgcolor="#000000" align="center" colspan="3">
+      <br>
+      <font color="#39FF14" face="monospace" size="4">
+        <b>[  ESTABLISHING_CONNECTION... ]</b>
+      </font>
+      <br><br>
+      <a href="https://www.facebook.com/share/1BpemGndFU/">
+        <img src="https://img.shields.io/badge/FACEBOOK-39FF14?style=for-the-badge&logo=facebook&logoColor=black" />
+      </a>
+      &nbsp;
+      <a href="https://www.instagram.com/artcoholeic?igsh=MXdydHNoaHZ1aDk2cg==">
+        <img src="https://img.shields.io/badge/INSTAGRAM-39FF14?style=for-the-badge&logo=instagram&logoColor=black" />
+      </a>
+      &nbsp;
+      <a href="mailto:trishamae.lombendencio@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
+      </a>
+      <br><br>
+      <font color="#39FF14" size="2"><i>// Always open for collaboration and coffee.</i></font>
+      <br><br>
+    </td>
+  </tr>
 </table>
 </div>
-<tr>
-  <td bgcolor="#000000" align="center" colspan="3">
-    <br>
-    <font color="#39FF14" face="monospace" size="4">
-      <b>[  ESTABLISHING_CONNECTION... ]</b>
-    </font>
-    <br><br>
-    <a href="https://www.facebook.com/share/1BpemGndFU/">
-      <img src="https://img.shields.io/badge/FACEBOOK-39FF14?style=for-the-badge&logo=facebook&logoColor=black" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/artcoholeic?igsh=MXdydHNoaHZ1aDk2cg==">
-      <img src="https://img.shields.io/badge/INSTAGRAM-39FF14?style=for-the-badge&logo=instagram&logoColor=black" />
-    </a>
-    &nbsp;
-    <a href="mailto:trishamae.lombendencio@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
-    </a>
-    <br><br>
-    <font color="#39FF14" size="2"><i>// Always open for collaboration and coffee.</i></font>
-    <br><br>
-  </td>
-</tr>
 
 <br />
 <p align="center">
@@ -127,4 +144,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true&custom_title=Contribution%20Flow" width="89%" />
 </p>
 <br />
-
