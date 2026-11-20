@@ -21,9 +21,9 @@
   <tr>
     <td bgcolor="#000000" align="center" colspan="3">
       <font color="#39FF14" size="6"><b>TRISHA MAE LOMBENDENCIO</b></font><br>
-      <font color="#39FF14"><b>Bachelor of Science in Information Systems</b></font><br>
+      <font color="#39FF14"><b>Bachelor of Science in Information Systems, Major in Business Application Development</b></font><br>
       <font color="#39FF14">West Visayas State University • Batch 2027</font><br>
-      <font color="#39FF14">Third Year Major in Business Application Development</font>
+      <font color="#39FF14">Fourth Year Major in Business Application Development</font>
       <font color="#39FF14"><i><br>I love coffee and art<3 </i></font>
     </td>
   </tr>
@@ -39,7 +39,7 @@
   <tr>
     <td bgcolor="#000000" align="left" colspan="3"><br>
        <font color="#39FF14"><b>&nbsp; PROFILE</b></font><br>
-       <font color="#39FF14">&nbsp; I am currently an IS student exploring the bridge between business needs and technical solutions. My focus is on learning the fundamentals of Systems Analysis and Design (SAD), as I work toward understanding how to better translate stakeholder requirements into helpful software. I am still at the beginning of my journey in architecting systems, but I am deeply interested in learning how to streamline complex organizational workflows to make them more efficient and user-friendly.<br></font>
+       <font color="#39FF14">&nbsp;I’m a fourth-year BS Information Systems, Major in Business Application Development student at West Visayas State University with a growing focus on web development, UI/UX, and software architecture. Before diving deep into systems, I spent a big part of my college life in creatives and media—serving as VP for Internal Affairs (Trainings) at LINK.exe and volunteering with The Way Church Creatives, where I helped run multimedia workshops, designed event pubmats and print collaterals, and worked alongside production teams. Those experiences shaped how I think about visual communication and user experience today. Through my IS coursework and our thesis—developing a web-based HRIS and Decision Support System for the Iloilo City Government—I’ve gained hands-on experience translating real-world business logic into database structures and frontend screens. Still learning every day, I love working on projects where good visual design and solid system logic meet.<br></font>
     </td>
   </tr>
 
