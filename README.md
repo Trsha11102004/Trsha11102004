@@ -406,13 +406,6 @@ LINK.exe, WVSU-CICT | A.Y. 2023–2024
 
 </td>
 
-<td width="50%" align="center" bgcolor="#000000">
-
-<b><font color="#39FF14">DECEMBER 2026</font></b>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trsha11102004&from=2026-12-01&to=2026-12-31&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true&custom_title=December%202026" width="100%" alt="December Contributions"/>
-
-</td>
 </tr>
 </table>
 
