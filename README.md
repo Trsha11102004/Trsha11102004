@@ -175,6 +175,38 @@ I also explore freelance graphic design, creating visual materials for organizat
 </p>
 
 </td>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td bgcolor="#000000" align="center">
+        <h3><font color="#39FF14">▸ PORTFOLIO OUTPUTS</font></h3>
+        <p> View my full portfolio here: </p>
+        <a href="https://drive.google.com/drive/u/4/folders/11EFOdcwoZikP45Kc1UFO6G3kFFpmEAUi">
+          <img src="https://img.shields.io/badge/PORTFOLIO_ARCHIVE-39FF14?style=for-the-badge&logo=googledrive&logoColor=black"/>
+        </a>
+        <br><br>
+        <!-- Replace the image paths below with the exact filenames in your GitHub repo -->
+                <p> TWC UNDONE CONCERT ARCH GATE: </p>
+        <img src="Concert Arch Gate.jpg" width="90%" alt="Output 1"/>
+                <p> Better Together Couples Conference Billboard & Flyers: </p>
+        <img src="BILLBOARD 1.png" width="65%" alt="Output 4"/>
+        <img src="FLYERS.png" width="15%" alt="Output 4"/>
+        <img src="Actual.jpg" width="40%" alt="Output 2"/>
+        <img src="N-pax x BENG Souvenir Pins Design.jpg" width="40%" alt="Output 3"/>
+                <br><br>
+        <img src="BSIS - Tshirt Design.jpg" width=80%" alt="Output 4"/>
+        <img src="Populaate Heaven, Plunder Hell.jpg" width="30%" alt="Output 4"/>
+        <img src="Orange - Cream Mockup - Revised.png" width="30%" alt="Output 4"/>
+        <img src="Mockup design draft - white.png" width="30%" alt="Output 4"/>
+        <img src="Fuzzy Flora on Facebook!.png" width="45%" alt="Output 4"/>
+        <img src="LAKBAY LENSE.jpg" width="45%" alt="Output 4"/>
+
+
+      </td>
+    </tr>
+  </table>
+</div>
 </tr>
 
 <!-- TECH STACK -->
