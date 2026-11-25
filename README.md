@@ -34,6 +34,7 @@ Fourth-Year Student
 <br><br>
 <i>I love coffee and art &lt;3</i>
 </font>
+<br>
 
 </td>
 </tr>
