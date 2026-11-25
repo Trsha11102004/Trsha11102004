@@ -1,4 +1,3 @@
-
 <!-- ============================================= -->
 <!-- TRISHA MAE LOMBENDENCIO | GITHUB README       -->
 <!-- BLACK + NEON GREEN THEME                      -->
@@ -19,7 +18,6 @@
 <!-- ABOUT ME -->
 
 <div align="center">
-<table width="100%">
 <tr>
 <td bgcolor="#000000" align="center">
 
@@ -78,12 +76,22 @@ I enjoy building projects where functional system logic meets thoughtful visual 
 
 <font color="#39FF14">
 
-<b>01. HRIS & DECISION SUPPORT SYSTEM (DSS)</b>
-<br>
-<i>Undergraduate Thesis | HRMO, Iloilo City Government</i>
+<a href="https://github.com/Trsha11102004">
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://drive.google.com/drive/u/4/folders/11EFOdcwoZikP45Kc1UFO6G3kFFpmEAUi">
+<img src="https://img.shields.io/badge/PORTFOLIO_ARCHIVE-39FF14?style=for-the-badge&logo=googledrive&logoColor=black"/>
+</a>
 <br><br>
 
-A web-based Human Resource Information System integrating Recruitment, Selection and Placement, Performance Management, and Learning and Development.
+<b>01. HRIS &amp; DECISION SUPPORT SYSTEM (DSS) — ABYAN HRIS</b>
+<br>
+<i>Undergraduate Thesis | HRMO, Iloilo City Government</i>
+<br>
+<i>Role: System Software Architecture, Diagrams &amp; Frontend UI/UX</i>
+<br><br>
+
+A web-based Human Resource Information System integrating Recruitment, Selection and Placement, Performance Management, and Learning and Development. I mainly worked on the system software architecture, diagrams, frontend UI/UX.
 
 <b>KEY FEATURES</b>
 <ul>
@@ -94,16 +102,52 @@ A web-based Human Resource Information System integrating Recruitment, Selection
 <li>CSC-aligned automated training classification</li>
 </ul>
 
-<b>FOCUS:</b> HRIS • DSS • Web Development • Data Analytics
+<b>SAMPLE OUTPUTS (UNDERGRADUATE HRIS)</b>
+<br><br>
+<table width="100%">
+<tr>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2"><b>Homepage</b></font><br><br>
+<img src="./homepage.png.png" width="100%" alt="ABYAN HRIS Homepage"/>
+</td>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2"><b>About ABYAN</b></font><br><br>
+<img src="./about-abyan.png.png" width="100%" alt="About ABYAN HRIS"/>
+</td>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2"><b>RSP Dashboard</b></font><br><br>
+<img src="./rsp-dashboard.png.png" width="100%" alt="RSP Dashboard"/>
+</td>
+</tr>
+<tr>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2"><b>Succession Planning</b></font><br><br>
+<img src="./succession-planning.png.png" width="100%" alt="Succession Planning"/>
+</td>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2"><b>Training Calendar</b></font><br><br>
+<img src="./training-calendar.png.png" width="100%" alt="Training Calendar"/>
+</td>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2"><b>Training Attendance</b></font><br><br>
+<img src="./training-attendance.png.png" width="100%" alt="Training Attendance"/>
+</td>
+</tr>
+</table>
+<br>
+
+<b>FOCUS:</b> HRIS • DSS • System Architecture • Frontend UI/UX • Data Analytics
 
 <hr color="#39FF14"/>
 
-<b>02. LINK.EXE ATTENDANCE & INVENTORY TRACKING SYSTEM (AITS)</b>
+<b>02. LINK.EXE ATTENDANCE &amp; INVENTORY TRACKING SYSTEM (AITS)</b>
 <br>
 <i>Organizational Management System | LINK.exe, WVSU-CICT</i>
+<br>
+<i>Role: User Interface Designer</i>
 <br><br>
 
-An administrative system designed to centralize organizational attendance monitoring and equipment inventory management.
+An administrative system designed to centralize organizational attendance monitoring and equipment inventory management, where I worked as the User Interface designer.
 
 <b>KEY FEATURES</b>
 <ul>
@@ -113,7 +157,13 @@ An administrative system designed to centralize organizational attendance monito
 <li>Administrative tracking and management</li>
 </ul>
 
-<b>FOCUS:</b> CRUD Operations • Database Management • Process Automation
+<b>HOME PAGE OUTPUT</b>
+<br><br>
+<p align="center">
+<img src="./LINK.exe-Home.png" width="75%" alt="LINK.exe Attendance and Inventory Tracking System Home Page"/>
+</p>
+
+<b>FOCUS:</b> UI Design • CRUD Operations • Database Management • Process Automation
 
 <hr color="#39FF14"/>
 
@@ -138,7 +188,6 @@ A web-based appointment management solution designed to streamline veterinary cl
 
 </td>
 </tr>
-
 
 <!-- CREATIVE WORK -->
 
@@ -175,38 +224,116 @@ I also explore freelance graphic design, creating visual materials for organizat
 </p>
 
 </td>
+</tr>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#000000" align="center">
-        <h3><font color="#39FF14">▸ PORTFOLIO OUTPUTS</font></h3>
-        <p> View my full portfolio here: </p>
-        <a href="https://drive.google.com/drive/u/4/folders/11EFOdcwoZikP45Kc1UFO6G3kFFpmEAUi">
-          <img src="https://img.shields.io/badge/PORTFOLIO_ARCHIVE-39FF14?style=for-the-badge&logo=googledrive&logoColor=black"/>
-        </a>
-        <br><br>
-        <!-- Replace the image paths below with the exact filenames in your GitHub repo -->
-                <p> TWC UNDONE CONCERT ARCH GATE: </p>
-        <img src="Concert Arch Gate.jpg" width="90%" alt="Output 1"/>
-                <p> Better Together Couples Conference Billboard & Flyers: </p>
-        <img src="BILLBOARD 1.png" width="65%" alt="Output 4"/>
-        <img src="FLYERS.png" width="15%" alt="Output 4"/>
-        <img src="Actual.jpg" width="40%" alt="Output 2"/>
-        <img src="N-pax x BENG Souvenir Pins Design.jpg" width="40%" alt="Output 3"/>
-                <br><br>
-        <img src="BSIS - Tshirt Design.jpg" width=80%" alt="Output 4"/>
-        <img src="Populaate Heaven, Plunder Hell.jpg" width="30%" alt="Output 4"/>
-        <img src="Orange - Cream Mockup - Revised.png" width="30%" alt="Output 4"/>
-        <img src="Mockup design draft - white.png" width="30%" alt="Output 4"/>
-        <img src="Fuzzy Flora on Facebook!.png" width="45%" alt="Output 4"/>
-        <img src="LAKBAY LENSE.jpg" width="45%" alt="Output 4"/>
+<!-- PORTFOLIO OUTPUTS -->
 
+<tr>
+<td bgcolor="#000000" align="center">
 
-      </td>
-    </tr>
-  </table>
-</div>
+<h3><font color="#39FF14">▸ PORTFOLIO OUTPUTS</font></h3>
+
+<font color="#39FF14">
+Explore my GitHub profile or view the full portfolio archive on Google Drive.<br><br>
+<a href="https://github.com/Trsha11102004">
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://drive.google.com/drive/u/4/folders/11EFOdcwoZikP45Kc1UFO6G3kFFpmEAUi">
+<img src="https://img.shields.io/badge/PORTFOLIO_ARCHIVE-39FF14?style=for-the-badge&logo=googledrive&logoColor=black"/>
+</a>
+</font>
+
+<br><br>
+
+<!-- 1. EVENT & BRAND GRAPHICS -->
+<font color="#39FF14"><b>EVENT &amp; BRAND GRAPHICS</b></font>
+<br><br>
+
+<font color="#39FF14" size="2">TWC UNDONE Concert Arch Gate</font><br>
+<img src="Concert Arch Gate.jpg" width="85%" alt="TWC UNDONE Concert Arch Gate"/>
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td width="65%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">Better Together Couples Conference Billboard</font><br><br>
+<img src="BILLBOARD 1.png" width="95%" alt="Better Together Couples Conference Billboard"/>
+</td>
+<td width="35%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">Conference Flyer</font><br><br>
+<img src="FLYERS.png" width="75%" alt="Better Together Couples Conference Flyer"/>
+</td>
+</tr>
+</table>
+
+<hr color="#39FF14"/>
+
+<!-- 2. SOUVENIR PINS -->
+<font color="#39FF14"><b>CEBU N-PAX × BENG SOUVENIR PINS</b></font>
+<br><br>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">Actual Pins</font><br><br>
+<img src="Actual.jpg" width="80%" alt="Cebu N-PAX x BENG Actual Pins"/>
+</td>
+<td width="50%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">Pin Design Sheet</font><br><br>
+<img src="N-pax x BENG Souvenir Pins Design.jpg" width="80%" alt="Cebu N-PAX x BENG Souvenir Pins Design"/>
+</td>
+</tr>
+</table>
+
+<hr color="#39FF14"/>
+
+<!-- 3. APPAREL & T-SHIRT MOCKUPS -->
+<font color="#39FF14"><b>APPAREL &amp; T-SHIRT DESIGNS</b></font>
+<br><br>
+
+<font color="#39FF14" size="2">BSIS T-Shirt Design</font><br>
+<img src="BSIS - Tshirt Design.jpg" width="80%" alt="BSIS T-Shirt Design"/>
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">The Way Lifestyle</font><br><br>
+<img src="Populaate Heaven, Plunder Hell.jpg" width="90%" alt="Populate Heaven, Plunder Hell"/>
+</td>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">Orange &amp; Cream Mockup</font><br><br>
+<img src="Orange - Cream Mockup - Revised.png" width="90%" alt="Orange - Cream Mockup - Revised"/>
+</td>
+<td width="33.33%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">White Mockup Draft</font><br><br>
+<img src="Mockup design draft - white.png" width="90%" alt="Mockup design draft - white"/>
+</td>
+</tr>
+</table>
+
+<hr color="#39FF14"/>
+
+<!-- 4. SOCIAL & CREATIVE HIGHLIGHTS -->
+<font color="#39FF14"><b>SOCIAL &amp; CREATIVE HIGHLIGHTS</b></font>
+<br><br>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">Fuzzy Flora</font><br><br>
+<img src="Fuzzy Flora on Facebook!.png" width="90%" alt="Fuzzy Flora on Facebook"/>
+</td>
+<td width="50%" align="center" bgcolor="#000000">
+<font color="#39FF14" size="2">Lakbay Lense</font><br><br>
+<img src="LAKBAY LENSE.jpg" width="90%" alt="LAKBAY LENSE"/>
+</td>
+</tr>
+</table>
+
+</td>
 </tr>
 
 <!-- TECH STACK -->
@@ -218,7 +345,7 @@ I also explore freelance graphic design, creating visual materials for organizat
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <font color="#39FF14"><b>LANGUAGES & FRONTEND</b></font>
 <br><br>
@@ -236,7 +363,7 @@ I also explore freelance graphic design, creating visual materials for organizat
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <font color="#39FF14"><b>ENVIRONMENT & TOOLS</b></font>
 <br><br>
@@ -252,7 +379,7 @@ I also explore freelance graphic design, creating visual materials for organizat
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 <font color="#39FF14"><b>BACKEND & DATABASE</b></font>
 <br><br>
@@ -438,6 +565,13 @@ LINK.exe, WVSU-CICT | A.Y. 2023–2024
 
 </td>
 
+<td width="50%" align="center" bgcolor="#000000">
+
+<b><font color="#39FF14">DECEMBER 2026</font></b>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trsha11102004&from=2026-12-01&to=2026-12-31&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true&custom_title=December%202026" width="100%" alt="December Contributions"/>
+
+</td>
 </tr>
 </table>
 
